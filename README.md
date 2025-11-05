@@ -1,2 +1,2 @@
 # UPI-REVOLUTION-IN-INDIA
-A detailed report analyzing the UPI (Unified Payments Interface) revolution in India — its growth, architecture, impact on financial inclusion, and role in shaping the nation’s digital economy.
+A detailed report analyzing the UPI (Unified Payments Interface) revolution in India — its growth, architecture, impact on financial inclusion, and role in shaping the nation’s digital economy.The Unified Payments Interface (UPI) has redefined the digital payment ecosystem in India, emerging as one of the most successful financial innovations globally. This repository presents a comprehensive report and analysis on “The UPI Revolution in India,” exploring its origin, technological framework, growth journey, and long-term impact on the Indian economy.
